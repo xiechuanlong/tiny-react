@@ -1,0 +1,19 @@
+{
+  "name": "tiny-react",
+  "version": "1.0.0",
+  "description": "react start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechuanlong/tiny-react.git"
+  },
+  "author": "莫语",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechuanlong/tiny-react/issues"
+  },
+  "homepage": "https://github.com/xiechuanlong/tiny-react#readme"
+}
